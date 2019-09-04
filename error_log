@@ -1,0 +1,156 @@
+[19-Feb-2019 11:48:27 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 330
+[19-Feb-2019 11:48:34 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 330
+[20-Feb-2019 09:27:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 267
+[20-Feb-2019 09:27:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 267
+[20-Feb-2019 09:28:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 267
+[20-Feb-2019 09:28:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 267
+[20-Feb-2019 09:29:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 270
+[20-Feb-2019 09:29:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 270
+[20-Feb-2019 09:30:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 270
+[20-Feb-2019 10:00:40 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Content type must be: application/json' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php:232
+Stack trace:
+#0 [internal function]: Android->insert_update_user()
+#1 /home/techvyaserp/public_html/ritco-crm-demo/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#2 /home/techvyaserp/public_html/ritco-crm-demo/index.php(202): require_once('/home/techvyase...')
+#3 {main}
+  thrown in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 232
+[20-Feb-2019 10:01:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Content type must be: application/json' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php:232
+Stack trace:
+#0 [internal function]: Android->insert_update_user()
+#1 /home/techvyaserp/public_html/ritco-crm-demo/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#2 /home/techvyaserp/public_html/ritco-crm-demo/index.php(202): require_once('/home/techvyase...')
+#3 {main}
+  thrown in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 232
+[20-Feb-2019 10:04:40 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Content type must be: application/json' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php:232
+Stack trace:
+#0 [internal function]: Android->insert_update_user()
+#1 /home/techvyaserp/public_html/ritco-crm-demo/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#2 /home/techvyaserp/public_html/ritco-crm-demo/index.php(202): require_once('/home/techvyase...')
+#3 {main}
+  thrown in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 232
+[20-Feb-2019 10:05:06 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Content type must be: application/json' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php:232
+Stack trace:
+#0 [internal function]: Android->insert_update_user()
+#1 /home/techvyaserp/public_html/ritco-crm-demo/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#2 /home/techvyaserp/public_html/ritco-crm-demo/index.php(202): require_once('/home/techvyase...')
+#3 {main}
+  thrown in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 232
+[20-Feb-2019 10:23:23 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request method must be POST!' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php:226
+Stack trace:
+#0 [internal function]: Android->insert_update_user('1')
+#1 /home/techvyaserp/public_html/ritco-crm-demo/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#2 /home/techvyaserp/public_html/ritco-crm-demo/index.php(202): require_once('/home/techvyase...')
+#3 {main}
+  thrown in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 226
+[20-Feb-2019 11:10:00 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request method must be POST!' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php:226
+Stack trace:
+#0 [internal function]: Android->insert_update_user()
+#1 /home/techvyaserp/public_html/ritco-crm-demo/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#2 /home/techvyaserp/public_html/ritco-crm-demo/index.php(202): require_once('/home/techvyase...')
+#3 {main}
+  thrown in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 226
+[20-Feb-2019 11:10:06 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request method must be POST!' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php:226
+Stack trace:
+#0 [internal function]: Android->insert_update_user()
+#1 /home/techvyaserp/public_html/ritco-crm-demo/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#2 /home/techvyaserp/public_html/ritco-crm-demo/index.php(202): require_once('/home/techvyase...')
+#3 {main}
+  thrown in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 226
+[20-Feb-2019 11:11:02 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request method must be POST!' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php:226
+Stack trace:
+#0 [internal function]: Android->insert_update_user()
+#1 /home/techvyaserp/public_html/ritco-crm-demo/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#2 /home/techvyaserp/public_html/ritco-crm-demo/index.php(202): require_once('/home/techvyase...')
+#3 {main}
+  thrown in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 226
+[20-Feb-2019 11:11:53 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request method must be POST!' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php:226
+Stack trace:
+#0 [internal function]: Android->insert_update_user()
+#1 /home/techvyaserp/public_html/ritco-crm-demo/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#2 /home/techvyaserp/public_html/ritco-crm-demo/index.php(202): require_once('/home/techvyase...')
+#3 {main}
+  thrown in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 226
+[20-Feb-2019 11:11:56 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request method must be POST!' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php:226
+Stack trace:
+#0 [internal function]: Android->insert_update_user()
+#1 /home/techvyaserp/public_html/ritco-crm-demo/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#2 /home/techvyaserp/public_html/ritco-crm-demo/index.php(202): require_once('/home/techvyase...')
+#3 {main}
+  thrown in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 226
+[02-Mar-2019 09:33:05 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 874
+[02-Mar-2019 09:39:44 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 876
+[11-Mar-2019 10:45:59 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:47:02 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:47:06 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:47:09 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:47:26 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:47:48 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:47:49 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:48:07 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:48:45 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:48:59 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:49:29 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:49:31 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:49:31 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:49:32 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:49:33 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:50:46 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:50:48 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:51:43 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:51:51 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:51:53 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:52:48 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[11-Mar-2019 10:52:52 Etc/GMT] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 11
+[26-Apr-2019 08:44:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 08:44:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 08:44:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 08:44:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 08:44:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 08:45:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 08:45:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 08:46:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 09:08:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 13:20:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 13:20:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 13:20:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 13:20:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 13:24:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 13:24:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 13:25:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[26-Apr-2019 13:25:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3151
+[02-May-2019 06:02:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:03:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:03:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:05:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:05:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:06:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:06:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:06:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:09:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:09:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:09:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:09:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:09:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:09:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:10:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:10:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:11:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:11:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3896
+[02-May-2019 06:13:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3902
+[02-May-2019 06:13:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3902
+[02-May-2019 06:14:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3902
+[02-May-2019 06:15:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3902
+[02-May-2019 06:15:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 3902
+[13-May-2019 06:35:18 Etc/GMT] PHP Fatal error:  Cannot redeclare Android::dashboard_task_all() in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 7448
+[13-May-2019 06:35:33 Etc/GMT] PHP Fatal error:  Cannot redeclare Android::dashboard_task_all() in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 7448
+[13-May-2019 06:36:54 Etc/GMT] PHP Fatal error:  Cannot redeclare Android::dashboard_task_all() in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 7448
+[13-May-2019 06:37:20 Etc/GMT] PHP Fatal error:  Cannot redeclare Android::dashboard_task_all() in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 7448
+[13-May-2019 06:40:08 Etc/GMT] PHP Fatal error:  Cannot redeclare Android::dashboard_task_all() in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 7448
+[13-May-2019 06:40:10 Etc/GMT] PHP Fatal error:  Cannot redeclare Android::dashboard_task_all() in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 7448
+[13-May-2019 06:40:11 Etc/GMT] PHP Fatal error:  Cannot redeclare Android::dashboard_task_all() in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 7448
+[13-May-2019 06:40:11 Etc/GMT] PHP Fatal error:  Cannot redeclare Android::dashboard_task_all() in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 7448
+[13-May-2019 10:19:18 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 6669
+[13-May-2019 10:48:08 Etc/GMT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 6718
+[13-May-2019 10:48:22 Etc/GMT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 6718
+[13-May-2019 10:48:26 Etc/GMT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/Android.php on line 6718
+[22-May-2019 13:10:48 Etc/GMT] PHP Fatal error:  Call to a member function leadJsonResponse() on a non-object in /home/techvyaserp/public_html/ritco-crm-demo/application/modules/master/controllers/api.php on line 2697
